@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here's a selection of random things I've made you can look at and play around with:
+Here's a selection of random things I've made that you can look at and play around with:
 
 [Shüpping List](https://play.google.com/store/apps/details?id=com.guess_burger.shopping_list) - A React-Native app written in ClojureScript born out of my frustations with existing shopping list apps
 
