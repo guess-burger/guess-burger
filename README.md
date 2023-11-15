@@ -18,7 +18,7 @@ Here's a selection of random things I've made that you can look at and play arou
 
 [Shüpping List](https://play.google.com/store/apps/details?id=com.guess_burger.shopping_list) - A React-Native app written in ClojureScript born out of my frustations with existing shopping list apps
 
-[Wavelength](mysterious-basin-71031.onrender.com/) - [src](https://github.com/guess-burger/wavelength) - A online, multiplayer version of the fantastic [boardgame of the same name](https://www.wavelength.zone/)
+[Wavelength](http://mysterious-basin-71031.onrender.com/) - [src](https://github.com/guess-burger/wavelength) - A online, multiplayer version of the fantastic [boardgame of the same name](https://www.wavelength.zone/)
 
 [Time Sheets](http://guess-burger.github.io/timesheets/) - [src](https://github.com/guess-burger/time-sheets) - A simple tool for making time tracking and time sheets easierwrittern in ClojureScript.
 
